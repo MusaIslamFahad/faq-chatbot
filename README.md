@@ -1,3 +1,4 @@
+<!--
 ---
 title: VisionChat FAQ
 emoji: 💬
@@ -10,6 +11,8 @@ pinned: false
 license: mit
 short_description: Semantic FAQ Chatbot · Sentence Transformers + ChromaDB
 ---
+
+-->
 
 <div align="center">
   
@@ -28,6 +31,8 @@ Built by **Md. Musa Islam Fahad** · CodeAlpha AI Internship Task 2.
 ![SQLite](https://img.shields.io/badge/SQLite-Analytics-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Internship](https://img.shields.io/badge/CodeAlpha-AI%20Internship%20·%20Task%202-orange?style=for-the-badge)
+
+![VisionChat FAQ Banner](https://raw.githubusercontent.com/MusaIslamFahad/faq-chatbot/main/assets/banner.png)
 
 **Production-grade semantic FAQ chatbot - Sentence Transformers + ChromaDB vector search, 8-intent classifier, FastAPI REST backend, Streamlit dashboard, and SQLite analytics.**
 
